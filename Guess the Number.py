@@ -1,3 +1,6 @@
+#Directions were to create a guess the number game where the user is guessing and the computer tells the user if they are getting hotter or colder
+#I'm uploading because I made a similar program over the summer, and the code for it was a lot more convoluted. Using a list to track distances was a big help.
+
 import random
 
 i = 0 
