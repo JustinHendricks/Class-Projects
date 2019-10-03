@@ -1,3 +1,6 @@
+#Directions were to take a text file filled with players and their stats and create the best possible fantasy football lineup.
+#I mainly uploaded because of the time constraints doing this project. I did it over the course of three hours without being familiar with extracting text. I was also suprised the code wasn't sloppier considering how much I was rushing.
+
 players_text = open("players.txt", "r") #Opens the txt file containing players
 player_list = [] #Used to convert raw text to mutable data
 qb = [
