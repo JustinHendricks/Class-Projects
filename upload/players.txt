@@ -1,0 +1,10 @@
+QB Roethlisburger 5129 28 120 1 0 0 
+RB Mixon 0 0 1168 5 192 3 
+RB Gurley 0 0 1251 17 580 4 
+RB Barkeley 0 0 1307 11 721 4 
+RB Elliott 0 0 1434 6
+QB Mahomes 5097 50 272 2 0 0 
+WR Jones 0 0 27 0 1677 8 
+WR Hopkins 0 0 0 0 1572 11 
+WR Hill 0 0 151 1 1515 12 
+TE Kittle 0 0 0 0 1200 12
